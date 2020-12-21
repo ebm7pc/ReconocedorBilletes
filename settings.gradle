@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "ReconocedorBilletes"
+include ':java'
+include ':openCVLibrary3412'
